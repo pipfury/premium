@@ -14,3 +14,26 @@ quiz();
 async function searchSite(){const input=$('#siteSearch'),res=$('#searchResults');if(!input||!res)return;const files=['vsa-modules','vsa-lessons','vsa-signals','vsa-case-files','vsa-mistakes','vsa-glossary','resources','trial-classes'];let all=[];for(const f of files){try{const d=await loadJSON('../data/'+f+'.json'); all=all.concat(d.map(x=>({section:f,...x})));}catch(e){}}
 input.addEventListener('input',()=>{const q=input.value.toLowerCase().trim(); if(!q){res.innerHTML='<p class="muted">Type a term such as no demand, stopping volume, test, background, or journal.</p>';return} const m=all.filter(x=>JSON.stringify(x).toLowerCase().includes(q)).slice(0,30);res.innerHTML=m.map(x=>`<div class="item"><div><strong>${x.title||x.name||x.term||x.market||x.section}</strong><p class="muted">${x.desc||x.definition||x.simple||x.lesson||x.focus||x.fix||''}</p></div><span class="pill">${x.section}</span></div>`).join('')||'<p>No result found. Add more data in JSON later.</p>';});}
 searchSite();
+
+
+// Backward-compatible clickable module cards for older homepage sections using data-modules.
+function renderLegacyModuleCards(){
+  const box=document.querySelector('[data-modules]');
+  if(!box) return;
+  fetch((location.pathname.split('/').filter(Boolean).length ? 'data/' : 'data/')+'vsa-modules.json')
+    .catch(()=>fetch('data/vsa-modules.json'))
+    .then(r=>r.json())
+    .then(mods=>{
+      box.innerHTML=mods.map((m,idx)=>{
+        const id=m.id || `module-${String(idx+1).padStart(2,'0')}`;
+        const title=m.title || `Module ${idx+1}`;
+        const level=m.level || `Level ${String(idx+1).padStart(2,'0')}`;
+        const desc=m.desc || m.summary || m.description || '';
+        const count=m.lessonCount || m.lessons || 0;
+        const href=`vsa-course/?module=${encodeURIComponent(id)}#lesson-library`;
+        return `<a class="card card-link module-link-card" href="${href}" aria-label="Open ${title}"><span class="tag">${level}</span><h3>${title}</h3><p class="muted">${desc}</p><div class="pill-row"><span class="pill">${count} lessons</span><span class="pill">Open module</span></div></a>`;
+      }).join('');
+    })
+    .catch(()=>{});
+}
+window.addEventListener('DOMContentLoaded', renderLegacyModuleCards);
