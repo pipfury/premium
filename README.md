@@ -1,17 +1,9 @@
-# PipFury Online — VSA Academy
+# PipFury Online - VSA Academy
 
-A complete static VSA-only trading education website.
+Static HTML/CSS/JS website. No build command required. For Cloudflare Pages use Framework preset None, Build command empty, Build output directory `.`.
 
-## Upload in one command
+For GitHub Pages project repo, links are relative and work under `/premium/`.
 
-```bash
-git add . && git commit -m "Rebuild PipFury as VSA Academy" && git push
-```
 
-## Data-first expansion
-
-Add future content inside `/data/*.json`. Main pages load modules, lessons, signals, case files, glossary, quizzes, resources, trial classes, and social links from JSON.
-
-## Important
-
-Educational only. No financial advice, trading signals, or profit guarantees.
+## Step 1 Premium VSA Data Update
+This package updates `data/vsa-modules.json`, `data/vsa-lessons.json`, `vsa-course/index.html`, and `assets/js/app.js`. It adds 12 modules and 120 premium lesson entries with original synthetic chart scenarios, VSA commentary, practice tasks, mini-quizzes, and risk notes.

@@ -1,82 +1,338 @@
 [
   {
-    "id": "foundation",
-    "level": "Level 01",
+    "id": "module-01",
     "title": "VSA Foundations",
-    "summary": "Learn the four pillars: volume, spread, close, and background.",
-    "lessons": 10,
-    "status": "Open"
+    "level": "Beginner",
+    "time": "4-6 hours",
+    "desc": "Build the language of Volume Spread Analysis: volume, spread, close, background, supply, demand, effort and result.",
+    "lessonCount": 10,
+    "recommendedOrder": 1,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in vsa foundations.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "What Volume Spread Analysis Really Studies",
+      "Why Volume Matters More Than Candle Colour",
+      "Supply and Demand as the Core Story",
+      "Professional Activity and Public Participation",
+      "Tick Volume in Spot Forex: Honest Use and Limits",
+      "Spread as the Visible Result of Effort",
+      "Closing Position: Where the Battle Ended",
+      "Background First: Why One Candle Is Never Enough",
+      "Effort versus Result: The Master Principle",
+      "Confirmation and Invalidation in VSA"
+    ]
   },
   {
-    "id": "candle",
-    "level": "Level 02",
-    "title": "Candle Anatomy",
-    "summary": "Read a single candle without isolating it from context.",
-    "lessons": 12,
-    "status": "Open"
+    "id": "module-02",
+    "title": "Candle Anatomy in VSA",
+    "level": "Beginner",
+    "time": "5-7 hours",
+    "desc": "Learn to read individual bars through direction, range, volume, close and the next bar response.",
+    "lessonCount": 10,
+    "recommendedOrder": 2,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in candle anatomy in vsa.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "Up Bars and Down Bars in VSA",
+      "Wide Spread Bars: Progress or Exhaustion?",
+      "Narrow Spread Bars: Lack of Result",
+      "High Volume Bars: Activity, Not Always Strength",
+      "Low Volume Bars: Interest Has Dried Up",
+      "Ultra High Volume Bars and Climactic Behaviour",
+      "Close on the High: When Demand Controls the Bar",
+      "Close in the Middle: Conflict Inside the Bar",
+      "Close on the Low: When Supply Controls the Bar",
+      "Next-Bar Confirmation: The Truth Test"
+    ]
   },
   {
-    "id": "background",
-    "level": "Level 03",
+    "id": "module-03",
+    "title": "Volume Interpretation",
+    "level": "Beginner to Intermediate",
+    "time": "6-8 hours",
+    "desc": "Study volume as relative activity and learn why location, trend and result decide its meaning.",
+    "lessonCount": 10,
+    "recommendedOrder": 3,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in volume interpretation.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "Relative Volume: Compare With the Recent Past",
+      "Rising Volume During a Move",
+      "Falling Volume During a Move",
+      "Volume Spike at a Key Level",
+      "Climactic Volume After a Long Move",
+      "Volume Dry-Up Before Continuation",
+      "Volume Expands But Price Stalls",
+      "Volume at Support",
+      "Volume at Resistance",
+      "News Volume and Why It Can Mislead"
+    ]
+  },
+  {
+    "id": "module-04",
+    "title": "Spread and Close Interpretation",
+    "level": "Intermediate",
+    "time": "6-8 hours",
+    "desc": "Connect range and closing position to volume so the learner can detect acceptance, rejection, absorption and failure.",
+    "lessonCount": 10,
+    "recommendedOrder": 4,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in spread and close interpretation.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "Wide Spread with Strong Close",
+      "Wide Spread with Weak Close",
+      "Narrow Spread with High Volume",
+      "Narrow Spread with Low Volume",
+      "Close Off the High",
+      "Close Off the Low",
+      "Large Wick with Heavy Volume",
+      "Small Body with Heavy Volume",
+      "Progress Bar versus Rejection Bar",
+      "Reading Three-Bar Sequences"
+    ]
+  },
+  {
+    "id": "module-05",
     "title": "Background Reading",
-    "summary": "Separate strength, weakness, accumulation, and distribution.",
-    "lessons": 12,
-    "status": "Open"
+    "level": "Intermediate",
+    "time": "7-9 hours",
+    "desc": "Teach the central VSA habit: judge the current bar only after reading previous price-volume behaviour.",
+    "lessonCount": 10,
+    "recommendedOrder": 5,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in background reading.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "What Background Means in VSA",
+      "Strong Background",
+      "Weak Background",
+      "Accumulation Background",
+      "Distribution Background",
+      "Markup Background",
+      "Markdown Background",
+      "Absorption Background",
+      "Testing Background",
+      "Why Isolated Signals Fail"
+    ]
   },
   {
-    "id": "weakness",
-    "level": "Level 04",
+    "id": "module-06",
     "title": "Signs of Weakness",
-    "summary": "Buying climax, upthrust, no demand, and poor result.",
-    "lessons": 14,
-    "status": "Open"
+    "level": "Intermediate",
+    "time": "7-10 hours",
+    "desc": "Recognize supply, failed demand, poor upside result and distribution behaviour before the decline becomes obvious.",
+    "lessonCount": 10,
+    "recommendedOrder": 6,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in signs of weakness.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "No Demand",
+      "Upthrust",
+      "Buying Climax",
+      "Supply Coming In",
+      "Weak Rally After Selling",
+      "Effort to Rise with Poor Result",
+      "High Volume Up Bar Closing Off the High",
+      "Breakout Failure on VSA Evidence",
+      "Distribution at Resistance",
+      "Weakness After Apparent Strength"
+    ]
   },
   {
-    "id": "strength",
-    "level": "Level 05",
+    "id": "module-07",
     "title": "Signs of Strength",
-    "summary": "Stopping volume, shakeout, tests, and no supply.",
-    "lessons": 14,
-    "status": "Open"
+    "level": "Intermediate",
+    "time": "7-10 hours",
+    "desc": "Recognize demand, selling absorption, lack of supply and strength after false weakness.",
+    "lessonCount": 10,
+    "recommendedOrder": 7,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in signs of strength.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "No Supply",
+      "Stopping Volume",
+      "Selling Climax",
+      "Shakeout",
+      "Successful Test",
+      "Demand Coming In",
+      "Effort to Fall with Poor Result",
+      "High Volume Down Bar Closing Off the Low",
+      "Strength After False Breakdown",
+      "Support Rejection with Volume Evidence"
+    ]
   },
   {
-    "id": "confirmation",
-    "level": "Level 06",
-    "title": "Tests & Confirmation",
-    "summary": "Wait for confirmation and define invalidation before action.",
-    "lessons": 10,
-    "status": "Open"
+    "id": "module-08",
+    "title": "Tests and Confirmation",
+    "level": "Intermediate to Advanced",
+    "time": "6-8 hours",
+    "desc": "Master the art of waiting: tests, failed tests, confirmation bars and conditions where the best decision is no trade.",
+    "lessonCount": 10,
+    "recommendedOrder": 8,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in tests and confirmation.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "What a Test Means in VSA",
+      "Successful Test After Strength",
+      "Failed Test in Weak Background",
+      "Test After Stopping Volume",
+      "Test After Shakeout",
+      "Test in a Range",
+      "Test in a Trend",
+      "Confirmation Bar Rules",
+      "When Confirmation Is Not Enough",
+      "When Not to Trade a Test"
+    ]
   },
   {
-    "id": "phases",
-    "level": "Level 07",
+    "id": "module-09",
     "title": "VSA in Market Phases",
-    "summary": "Apply VSA inside accumulation, markup, distribution, and markdown.",
-    "lessons": 12,
-    "status": "Open"
+    "level": "Advanced",
+    "time": "7-9 hours",
+    "desc": "Apply VSA across accumulation, markup, distribution, markdown, ranges, trends, breakouts and failed breakouts.",
+    "lessonCount": 10,
+    "recommendedOrder": 9,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in vsa in market phases.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "VSA in Accumulation",
+      "VSA in Markup",
+      "VSA in Distribution",
+      "VSA in Markdown",
+      "VSA Inside Ranges",
+      "VSA in Trending Markets",
+      "VSA Near Support",
+      "VSA Near Resistance",
+      "VSA After Breakout",
+      "VSA After Failed Breakout"
+    ]
   },
   {
-    "id": "planning",
-    "level": "Level 08",
+    "id": "module-10",
     "title": "VSA Trade Planning",
-    "summary": "Turn analysis into a risk-defined thesis.",
-    "lessons": 10,
-    "status": "Open"
+    "level": "Advanced",
+    "time": "8-10 hours",
+    "desc": "Turn analysis into a disciplined plan: context, signal, confirmation, invalidation, entry, stop, target and skip rules.",
+    "lessonCount": 10,
+    "recommendedOrder": 10,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in vsa trade planning.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "The Background-Level-Signal Sequence",
+      "Choosing Meaningful Levels",
+      "Building a VSA Thesis",
+      "Entry Logic Without Chasing",
+      "Stop-Loss Logic and Invalidation",
+      "Target Logic and Trade Management",
+      "Risk-to-Reward in VSA Plans",
+      "When to Skip a Technically Interesting Setup",
+      "Pre-Trade Checklist Scoring",
+      "Writing a Complete VSA Trade Plan"
+    ]
   },
   {
-    "id": "mistakes",
-    "level": "Level 09",
-    "title": "Mistake Library",
-    "summary": "Fix the most common VSA reading and execution errors.",
-    "lessons": 20,
-    "status": "Open"
+    "id": "module-11",
+    "title": "VSA Mistake Correction",
+    "level": "Advanced",
+    "time": "7-9 hours",
+    "desc": "Correct the common errors that make learners misuse VSA labels and trade emotionally.",
+    "lessonCount": 10,
+    "recommendedOrder": 11,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in vsa mistake correction.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "Reading One Candle Alone",
+      "Forcing VSA Labels",
+      "Ignoring the Closing Position",
+      "Misreading Every High Volume Bar as Buying",
+      "Misreading Every Low Volume Bar as Weakness",
+      "Ignoring Relative Volume",
+      "Entering Before Confirmation",
+      "Trading Against Background",
+      "Confusing News Volatility with Clean Evidence",
+      "Using VSA Vocabulary to Justify Emotion"
+    ]
   },
   {
-    "id": "casefiles",
-    "level": "Level 10",
-    "title": "Case File Method",
-    "summary": "Study real-style chart narratives through a professional evidence format.",
-    "lessons": 20,
-    "status": "Open"
+    "id": "module-12",
+    "title": "Professional VSA Case Review",
+    "level": "Advanced to Professional",
+    "time": "Ongoing",
+    "desc": "Train learners to write structured chart case files, review trades and build a process-based improvement loop.",
+    "lessonCount": 10,
+    "recommendedOrder": 12,
+    "learningOutcomes": [
+      "Explain the central VSA problem addressed in professional vsa case review.",
+      "Read volume, spread, close and background together rather than as isolated signals.",
+      "Describe confirmation and invalidation before forming a trade idea.",
+      "Convert the concept into a practice task or review question."
+    ],
+    "assessment": "Mini quiz, chart-reading drill, and journal reflection",
+    "lessons": [
+      "How to Write a VSA Case File",
+      "Marking Background on a Chart",
+      "Marking Key Bars and Levels",
+      "Recording Confirmation and Invalidation",
+      "Reviewing a Winning Trade Correctly",
+      "Reviewing a Losing Trade Correctly",
+      "Reviewing a Missed Trade",
+      "Scoring Trade Quality",
+      "Weekly VSA Review Method",
+      "Building a 30-Day Improvement Plan"
+    ]
   }
 ]
