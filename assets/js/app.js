@@ -37,3 +37,18 @@ function renderLegacyModuleCards(){
     .catch(()=>{});
 }
 window.addEventListener('DOMContentLoaded', renderLegacyModuleCards);
+
+
+// GitHub Pages subfolder safety: if the site is hosted at pipfury.github.io/premium,
+// links like /vsa-course/ must become /premium/vsa-course/.
+function normalizeGitHubPagesLinks(){
+  const repoBase = '/premium';
+  const isGitHubPages = location.hostname.endsWith('github.io');
+  if(!isGitHubPages) return;
+  document.querySelectorAll('a[href^="/"]').forEach(a=>{
+    const href=a.getAttribute('href');
+    if(!href || href.startsWith(repoBase + '/') || href === repoBase || href.startsWith('//')) return;
+    a.setAttribute('href', repoBase + href);
+  });
+}
+window.addEventListener('DOMContentLoaded', normalizeGitHubPagesLinks);
