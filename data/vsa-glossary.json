@@ -1,0 +1,34 @@
+[
+  {
+    "term": "Volume",
+    "definition": "The amount of trading activity during a bar or period. In VSA, volume is read relative to recent activity."
+  },
+  {
+    "term": "Spread",
+    "definition": "The distance from high to low of a candle. It shows range expansion or compression."
+  },
+  {
+    "term": "Close",
+    "definition": "Where the candle finishes inside its range. The close reveals result and rejection."
+  },
+  {
+    "term": "Background",
+    "definition": "The recent market story that makes a VSA signal meaningful or dangerous."
+  },
+  {
+    "term": "Effort",
+    "definition": "The visible activity, usually shown by volume and spread."
+  },
+  {
+    "term": "Result",
+    "definition": "The progress achieved by the effort, especially shown by close and follow-through."
+  },
+  {
+    "term": "Absorption",
+    "definition": "A condition where strong opposing orders absorb visible pressure and reduce progress."
+  },
+  {
+    "term": "Invalidation",
+    "definition": "The price condition that proves the trade thesis wrong."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  "Have I read the background?",
+  "Is the bar near a meaningful level?",
+  "Is volume relative to recent bars?",
+  "Is the spread wide, normal, or narrow?",
+  "Where did the candle close?",
+  "Does result match effort?",
+  "Is there next-bar confirmation?",
+  "Where is invalidation?",
+  "Is risk acceptable?",
+  "Am I forcing a label?"
+]

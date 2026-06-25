@@ -1,0 +1,82 @@
+[
+  {
+    "id": "foundation",
+    "level": "Level 01",
+    "title": "VSA Foundations",
+    "summary": "Learn the four pillars: volume, spread, close, and background.",
+    "lessons": 10,
+    "status": "Open"
+  },
+  {
+    "id": "candle",
+    "level": "Level 02",
+    "title": "Candle Anatomy",
+    "summary": "Read a single candle without isolating it from context.",
+    "lessons": 12,
+    "status": "Open"
+  },
+  {
+    "id": "background",
+    "level": "Level 03",
+    "title": "Background Reading",
+    "summary": "Separate strength, weakness, accumulation, and distribution.",
+    "lessons": 12,
+    "status": "Open"
+  },
+  {
+    "id": "weakness",
+    "level": "Level 04",
+    "title": "Signs of Weakness",
+    "summary": "Buying climax, upthrust, no demand, and poor result.",
+    "lessons": 14,
+    "status": "Open"
+  },
+  {
+    "id": "strength",
+    "level": "Level 05",
+    "title": "Signs of Strength",
+    "summary": "Stopping volume, shakeout, tests, and no supply.",
+    "lessons": 14,
+    "status": "Open"
+  },
+  {
+    "id": "confirmation",
+    "level": "Level 06",
+    "title": "Tests & Confirmation",
+    "summary": "Wait for confirmation and define invalidation before action.",
+    "lessons": 10,
+    "status": "Open"
+  },
+  {
+    "id": "phases",
+    "level": "Level 07",
+    "title": "VSA in Market Phases",
+    "summary": "Apply VSA inside accumulation, markup, distribution, and markdown.",
+    "lessons": 12,
+    "status": "Open"
+  },
+  {
+    "id": "planning",
+    "level": "Level 08",
+    "title": "VSA Trade Planning",
+    "summary": "Turn analysis into a risk-defined thesis.",
+    "lessons": 10,
+    "status": "Open"
+  },
+  {
+    "id": "mistakes",
+    "level": "Level 09",
+    "title": "Mistake Library",
+    "summary": "Fix the most common VSA reading and execution errors.",
+    "lessons": 20,
+    "status": "Open"
+  },
+  {
+    "id": "casefiles",
+    "level": "Level 10",
+    "title": "Case File Method",
+    "summary": "Study real-style chart narratives through a professional evidence format.",
+    "lessons": 20,
+    "status": "Open"
+  }
+]

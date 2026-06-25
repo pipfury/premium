@@ -1,0 +1,24 @@
+{
+  "headline": "Book a PipFury VSA Trial Class",
+  "description": "A structured live introduction to volume, spread, close, background, and evidence-based chart reading. No signals, no profit promises.",
+  "classes": [
+    {
+      "title": "VSA Beginner Trial",
+      "duration": "45 minutes",
+      "focus": "Volume, spread, close, background",
+      "mode": "Live online"
+    },
+    {
+      "title": "Chart Reading Trial",
+      "duration": "60 minutes",
+      "focus": "Case-file style VSA analysis",
+      "mode": "Live online"
+    },
+    {
+      "title": "Journal Review Trial",
+      "duration": "45 minutes",
+      "focus": "Mistakes, confirmation, and risk discipline",
+      "mode": "Live online"
+    }
+  ]
+}

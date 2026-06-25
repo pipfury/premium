@@ -1,0 +1,38 @@
+[
+  {
+    "id": "q1",
+    "question": "A wide up bar appears at resistance on ultra-high volume but closes in the middle. What is the best VSA reading?",
+    "options": [
+      "Guaranteed strength",
+      "Possible supply entering",
+      "No supply",
+      "Successful test"
+    ],
+    "answer": 1,
+    "explanation": "High volume with failure to close strongly at resistance may show supply meeting demand."
+  },
+  {
+    "id": "q2",
+    "question": "What should be read before any single VSA signal?",
+    "options": [
+      "Indicator color",
+      "Background",
+      "Lot size",
+      "Account balance"
+    ],
+    "answer": 1,
+    "explanation": "Background gives context to volume, spread, and close."
+  },
+  {
+    "id": "q3",
+    "question": "A successful test usually requires:",
+    "options": [
+      "High volume and weak close",
+      "Low volume and positive follow-through",
+      "Random entry",
+      "News spike only"
+    ],
+    "answer": 1,
+    "explanation": "A test checks for supply; low volume plus follow-through supports the test."
+  }
+]

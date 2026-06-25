@@ -1,0 +1,66 @@
+[
+  {
+    "id": "no-demand",
+    "title": "No Demand",
+    "type": "Weakness",
+    "definition": "A narrow up bar on lower volume after weakness, showing lack of professional support for higher prices.",
+    "confirmation": "Next bars fail to continue upward or close weakly.",
+    "commonMistake": "Calling every low-volume up bar no demand without checking background."
+  },
+  {
+    "id": "no-supply",
+    "title": "No Supply",
+    "type": "Strength",
+    "definition": "A narrow down bar on lower volume after strength, showing lack of selling pressure.",
+    "confirmation": "Next bars hold or move higher.",
+    "commonMistake": "Ignoring whether the market has already shown strength."
+  },
+  {
+    "id": "upthrust",
+    "title": "Upthrust",
+    "type": "Weakness",
+    "definition": "A move above resistance or prior high that closes weakly, often trapping breakout buyers.",
+    "confirmation": "Failure to hold above the level and bearish follow-through.",
+    "commonMistake": "Entering short before the bar closes."
+  },
+  {
+    "id": "shakeout",
+    "title": "Shakeout",
+    "type": "Strength",
+    "definition": "A push below support that quickly recovers, often testing and removing weak hands.",
+    "confirmation": "Recovery above level and later no-supply/test behavior.",
+    "commonMistake": "Buying every break below support without confirmation."
+  },
+  {
+    "id": "stopping-volume",
+    "title": "Stopping Volume",
+    "type": "Strength",
+    "definition": "High volume after a decline with reduced downside progress, suggesting absorption of selling.",
+    "confirmation": "Market stops making meaningful lower closes and later tests supply.",
+    "commonMistake": "Buying immediately into high volume without waiting."
+  },
+  {
+    "id": "buying-climax",
+    "title": "Buying Climax",
+    "type": "Weakness",
+    "definition": "Very high volume after an extended rise where price struggles to close strongly.",
+    "confirmation": "Rally failure, upthrust, no demand, or break of local structure.",
+    "commonMistake": "Assuming high volume always means strength."
+  },
+  {
+    "id": "test",
+    "title": "Test",
+    "type": "Confirmation",
+    "definition": "A controlled move to check whether supply remains after prior strength.",
+    "confirmation": "Low volume and bullish follow-through.",
+    "commonMistake": "Calling any small candle a test."
+  },
+  {
+    "id": "effort-poor-result",
+    "title": "Effort With Poor Result",
+    "type": "Warning",
+    "definition": "High volume or wide spread produces little progress, showing opposition to the move.",
+    "confirmation": "Next bars reveal who absorbed the effort.",
+    "commonMistake": "Reading effort without result."
+  }
+]

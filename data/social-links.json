@@ -1,0 +1,32 @@
+[
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@pipfury",
+    "icon": "▶",
+    "label": "Watch lessons"
+  },
+  {
+    "name": "X / Twitter",
+    "url": "https://x.com/pipfury",
+    "icon": "𝕏",
+    "label": "Market notes"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://t.me/pipfury",
+    "icon": "✈",
+    "label": "Announcements"
+  },
+  {
+    "name": "WhatsApp",
+    "url": "https://wa.me/923000000000",
+    "icon": "☘",
+    "label": "Trial class"
+  },
+  {
+    "name": "Email",
+    "url": "mailto:hello@pipfury.com",
+    "icon": "✉",
+    "label": "Contact"
+  }
+]

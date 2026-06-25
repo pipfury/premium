@@ -1,0 +1,26 @@
+[
+  {
+    "id": "single-candle",
+    "title": "Reading One Candle Alone",
+    "problem": "A candle may look strong or weak, but without background it can be misleading.",
+    "fix": "Always ask what happened before this candle and where it appears."
+  },
+  {
+    "id": "high-volume",
+    "title": "Assuming High Volume Means Buying",
+    "problem": "High volume can be buying, selling, absorption, or climax.",
+    "fix": "Judge the close and result after the high-volume bar."
+  },
+  {
+    "id": "early-entry",
+    "title": "Entering Before Confirmation",
+    "problem": "Many VSA ideas fail because traders enter while the evidence is incomplete.",
+    "fix": "Wait for next-bar behavior and define invalidation."
+  },
+  {
+    "id": "forcing-labels",
+    "title": "Forcing VSA Labels",
+    "problem": "Traders name patterns to justify trades instead of reading evidence.",
+    "fix": "Use the checklist: background, level, volume, spread, close, confirmation."
+  }
+]

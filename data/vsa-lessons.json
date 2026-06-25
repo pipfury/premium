@@ -1,0 +1,290 @@
+[
+  {
+    "id": "lesson-001",
+    "module": "foundation",
+    "title": "What is Volume Spread Analysis?",
+    "difficulty": "Beginner",
+    "minutes": 9,
+    "summary": "VSA studies the relationship between volume, spread, close, and background to infer strength or weakness.",
+    "coreIdea": "VSA studies the relationship between volume, spread, close, and background to infer strength or weakness.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-002",
+    "module": "foundation",
+    "title": "Volume, Spread, Close, Background",
+    "difficulty": "Beginner",
+    "minutes": 10,
+    "summary": "The four pillars only become meaningful when read together, not as separate signals.",
+    "coreIdea": "The four pillars only become meaningful when read together, not as separate signals.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-003",
+    "module": "foundation",
+    "title": "Effort vs Result",
+    "difficulty": "Beginner",
+    "minutes": 11,
+    "summary": "Large effort with poor result often warns that the visible direction is being resisted.",
+    "coreIdea": "Large effort with poor result often warns that the visible direction is being resisted.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-004",
+    "module": "candle",
+    "title": "Wide Spread Bars",
+    "difficulty": "Beginner",
+    "minutes": 12,
+    "summary": "Wide spread bars show expansion, but the close and background decide whether expansion is healthy or trapped.",
+    "coreIdea": "Wide spread bars show expansion, but the close and background decide whether expansion is healthy or trapped.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-005",
+    "module": "candle",
+    "title": "Narrow Spread Bars",
+    "difficulty": "Beginner",
+    "minutes": 8,
+    "summary": "Narrow spread bars reveal lack of progress and often matter after prior effort.",
+    "coreIdea": "Narrow spread bars reveal lack of progress and often matter after prior effort.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-006",
+    "module": "background",
+    "title": "Strong Background",
+    "difficulty": "Beginner",
+    "minutes": 9,
+    "summary": "A strong background appears when selling pressure is absorbed and price refuses lower levels.",
+    "coreIdea": "A strong background appears when selling pressure is absorbed and price refuses lower levels.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-007",
+    "module": "background",
+    "title": "Weak Background",
+    "difficulty": "Beginner",
+    "minutes": 10,
+    "summary": "A weak background appears when rallies fail and supply repeatedly appears near value areas.",
+    "coreIdea": "A weak background appears when rallies fail and supply repeatedly appears near value areas.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-008",
+    "module": "weakness",
+    "title": "No Demand",
+    "difficulty": "Intermediate",
+    "minutes": 11,
+    "summary": "A narrow up bar on low volume after weakness can show lack of professional buying.",
+    "coreIdea": "A narrow up bar on low volume after weakness can show lack of professional buying.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-009",
+    "module": "weakness",
+    "title": "Upthrust",
+    "difficulty": "Intermediate",
+    "minutes": 12,
+    "summary": "An upthrust pushes above a level and closes weakly, often trapping breakout buyers.",
+    "coreIdea": "An upthrust pushes above a level and closes weakly, often trapping breakout buyers.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-010",
+    "module": "weakness",
+    "title": "Buying Climax",
+    "difficulty": "Intermediate",
+    "minutes": 8,
+    "summary": "Very high volume after an extended rise may show late public buying meeting professional selling.",
+    "coreIdea": "Very high volume after an extended rise may show late public buying meeting professional selling.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-011",
+    "module": "strength",
+    "title": "Stopping Volume",
+    "difficulty": "Intermediate",
+    "minutes": 9,
+    "summary": "High volume after a fall with failure to continue lower can suggest selling is being absorbed.",
+    "coreIdea": "High volume after a fall with failure to continue lower can suggest selling is being absorbed.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-012",
+    "module": "strength",
+    "title": "No Supply",
+    "difficulty": "Intermediate",
+    "minutes": 10,
+    "summary": "A narrow down bar on low volume after strength can show lack of selling pressure.",
+    "coreIdea": "A narrow down bar on low volume after strength can show lack of selling pressure.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-013",
+    "module": "strength",
+    "title": "Shakeout",
+    "difficulty": "Intermediate",
+    "minutes": 11,
+    "summary": "A shakeout pushes below support and recovers, often removing weak holders before markup.",
+    "coreIdea": "A shakeout pushes below support and recovers, often removing weak holders before markup.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-014",
+    "module": "confirmation",
+    "title": "Successful Test",
+    "difficulty": "Intermediate",
+    "minutes": 12,
+    "summary": "A test checks whether supply remains; success requires low volume and follow-through.",
+    "coreIdea": "A test checks whether supply remains; success requires low volume and follow-through.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-015",
+    "module": "confirmation",
+    "title": "Failed Test",
+    "difficulty": "Intermediate",
+    "minutes": 8,
+    "summary": "A test fails when supply appears again and price cannot confirm strength.",
+    "coreIdea": "A test fails when supply appears again and price cannot confirm strength.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  },
+  {
+    "id": "lesson-016",
+    "module": "planning",
+    "title": "VSA Trade Thesis",
+    "difficulty": "Intermediate",
+    "minutes": 9,
+    "summary": "A valid thesis includes background, signal, confirmation, invalidation, and risk.",
+    "coreIdea": "A valid thesis includes background, signal, confirmation, invalidation, and risk.",
+    "steps": [
+      "Read the background first.",
+      "Identify volume relative to recent bars.",
+      "Compare spread and close.",
+      "Wait for confirmation.",
+      "Define invalidation before risk."
+    ],
+    "mistake": "Do not treat this as a mechanical buy or sell signal. VSA is contextual.",
+    "practice": "Open any chart, mark three recent bars, and write what volume, spread, close, and background suggest."
+  }
+]

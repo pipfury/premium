@@ -1,0 +1,44 @@
+[
+  {
+    "id": "xau-stopping-volume",
+    "market": "XAUUSD",
+    "title": "Stopping Volume After Sharp Selloff",
+    "phase": "Possible accumulation",
+    "timeframe": "M15/H1",
+    "evidence": [
+      "Fast decline into prior demand zone",
+      "Ultra-high volume down bar closes off the low",
+      "Next bars fail to continue lower",
+      "Later low-volume test appears"
+    ],
+    "lesson": "High volume alone is not a buy signal; the key is failure to make lower progress after heavy selling."
+  },
+  {
+    "id": "eur-no-demand",
+    "market": "EURUSD",
+    "title": "No Demand Before Reversal",
+    "phase": "Weak rally",
+    "timeframe": "M30",
+    "evidence": [
+      "Background shows supply near resistance",
+      "Narrow up bar appears on lower volume",
+      "Close is not strong",
+      "Next bar confirms weakness"
+    ],
+    "lesson": "No demand is strongest when it appears after prior weakness and near a meaningful level."
+  },
+  {
+    "id": "gbp-upthrust",
+    "market": "GBPJPY",
+    "title": "Upthrust at Resistance",
+    "phase": "Distribution warning",
+    "timeframe": "H1",
+    "evidence": [
+      "Price runs above equal highs",
+      "Wide bar closes back under resistance",
+      "Volume expands",
+      "Follow-through rejects higher prices"
+    ],
+    "lesson": "A breakout that cannot hold above the level may be a trap, not confirmation."
+  }
+]

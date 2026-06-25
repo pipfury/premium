@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pipfury.pages.dev/sitemap.xml
